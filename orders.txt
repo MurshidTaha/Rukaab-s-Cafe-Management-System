@@ -1,0 +1,13 @@
+Order ID: 1001
+Customer: Muhammad Taha
+Time: Wed Jan 07 12:12:14 2026
+Items:
+  - Rukaab Brownie x2 @ Rs.300
+  - Strawberry Fields x4 @ Rs.120
+Subtotal: Rs.1080
+Tax: Rs.140.4
+Donation: Rs.100
+Total: Rs.1320.4
+Payment: Card
+Status: Paid
+----------------------------------------
